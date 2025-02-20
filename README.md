@@ -20,7 +20,7 @@
 - Resend https://resend.com/
 - Hostinger https://www.hostinger.com/
 
-- `.env.local`
+## `.env.local`
 
 ```
 NEXT_PUBLIC_IMAGEKIT_URL_ENDPOINT=
